@@ -720,4 +720,8 @@ footer .arriba{
     max-width: 0100%; /* Ajusta el ancho máximo según tus preferencias */
 }
 
+.centrado {
+    text-align: center;
+  }
+  
 
